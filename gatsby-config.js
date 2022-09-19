@@ -1,18 +1,22 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Starter Blog`,
+    title: `codingwbeto`,
     author: {
-      name: `Kyle Mathews`,
-      summary: `who lives and works in San Francisco building useful things.`,
+      name: `Alberto Alvarado`,
+      summary: `, a self taught web developer from bay area california.`,
     },
     description: `A starter blog demonstrating what Gatsby can do.`,
-    siteUrl: `https://gatsbystarterblogsource.gatsbyjs.io/`,
+    siteUrl: `https://beto1030.github.io/codingwbeto`,
     social: {
-      twitter: `kylemathews`,
+      twitter: `codingwbeto`,
     },
   },
+
+  pathPrefix: "/reponame",
+
   plugins: [
     `gatsby-plugin-image`,
+
     {
       resolve: `gatsby-source-filesystem`,
       options: {
@@ -23,34 +27,52 @@ module.exports = {
     {
       resolve: `gatsby-source-filesystem`,
       options: {
+        path: `${__dirname}/content/geology`,
+        name: `geology`,
+      },
+    },
+
+    {
+      resolve: `gatsby-source-filesystem`,
+      options: {
+        path: `${__dirname}/content/lesson`,
+        name: `lesson`,
+      },
+    },
+
+    {
+      resolve: `gatsby-source-filesystem`,
+      options: {
         name: `images`,
         path: `${__dirname}/src/images`,
       },
     },
+
     {
       resolve: `gatsby-transformer-remark`,
       options: {
         plugins: [
-          {
-            resolve: `gatsby-remark-images`,
-            options: {
-              maxWidth: 630,
-            },
-          },
-          {
-            resolve: `gatsby-remark-responsive-iframe`,
-            options: {
-              wrapperStyle: `margin-bottom: 1.0725rem`,
-            },
-          },
-          `gatsby-remark-prismjs`,
-          `gatsby-remark-copy-linked-files`,
-          `gatsby-remark-smartypants`,
+                     {
+                       resolve: `gatsby-remark-images`,
+                       options: {
+                         maxWidth: 630,
+                       },
+                     },
+                     {
+                       resolve: `gatsby-remark-responsive-iframe`,
+                       options: {
+                         wrapperStyle: `margin-bottom: 1.0725rem`,
+                       },
+                     },
+                     `gatsby-remark-prismjs`,
+                     `gatsby-remark-copy-linked-files`,
+                     `gatsby-remark-smartypants`,
         ],
       },
     },
+
     `gatsby-transformer-sharp`,
-    `gatsby-plugin-sharp`,
+
     {
       resolve: `gatsby-plugin-feed`,
       options: {
@@ -104,6 +126,8 @@ module.exports = {
         ],
       },
     },
+
+
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
@@ -118,5 +142,22 @@ module.exports = {
         icon: `src/images/gatsby-icon.png`, // This path is relative to the root of the site.
       },
     },
+
+{
+    resolve: `gatsby-plugin-sharp`,
+    options: {
+      // Defaults used for gatsbyImageData and StaticImage
+      defaults: {},
+      // Set to none to allow builds to continue on image errors
+      failOn: `none`,
+      // deprecated options and their defaults:
+      base64Width: 20,
+      forceBase64Format: `png`, // valid formats: png,jpg,webp
+      useMozJpeg: process.env.GATSBY_JPEG_ENCODER === `MOZJPEG`,
+      stripMetadata: true,
+      defaultQuality: 50,
+    },
+  },
+
   ],
 }

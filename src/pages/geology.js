@@ -6,8 +6,7 @@ import Bio from "../components/Bio"
 import Seo from "../components/Seo"
 
 
-const BlogIndex = ({ data, location }) => {
-  console.log(data)
+const GeologyIndex = ({ data, location }) => {
   const siteTitle = data.site.siteMetadata?.title || `Title`
   const posts = data.allMarkdownRemark.nodes
 
@@ -36,6 +35,7 @@ const BlogIndex = ({ data, location }) => {
 
   return (
     <Layout location={location}  title={siteTitle}>
+      <Bio />
       <ol style={{ listStyle: `none` }}>
 
              {posts.map(post => {
@@ -72,7 +72,7 @@ const BlogIndex = ({ data, location }) => {
   )
 }
 
-export default BlogIndex
+export default GeologyIndex
 
 /**
  * Head export to define metadata for the page
@@ -82,13 +82,13 @@ export default BlogIndex
 export const Head = () => <Seo title="Blog posts" />
 
 export const pageQuery = graphql`
-  query getBlogPosts{
+  query getGeologyPosts{
     site {
       siteMetadata {
         title
       }
     }
-    allMarkdownRemark(sort: { fields: [frontmatter___date], order: DESC },filter: {fileAbsolutePath: {regex: "/(blog)/"  }}) {
+    allMarkdownRemark(sort: { fields: [frontmatter___date], order: DESC },filter: {fileAbsolutePath: {regex: "/(geology)/"  }}) {
       nodes {
         excerpt
         fields {

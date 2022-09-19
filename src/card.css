@@ -1,0 +1,51 @@
+.flipdiv {
+  position: relative;
+  height: 200px;
+  perspective: 1000px;
+}
+
+.flipdiv.v.showBack .front, .flipdiv.v.flip .front {
+  transform: rotateY(180deg);
+}
+
+.flipdiv.v.showBack .back, .flipdiv.v.flip .back {
+  transform: rotateY(0deg);
+}
+
+.flipdiv.v .back {
+  transform: rotateY(-180deg);
+}
+.front, .back {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+}
+
+
+.flipdiv .front, .flipdiv .back {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  box-sizing: border-box;
+  transition: all 0.5s ease-in;
+  padding: 10px;
+  backface-visibility: hidden;
+}
+
+.grid-container {
+    display: grid;
+    /*grid-template-columns: auto auto auto;*/
+    /*background-color: #2196F3;*/
+    /*padding: 10px;*/
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    grid-auto-rows: 200px;
+    grid-gap: 5px;
+}
+.grid-item {
+    /*background-color: rgba(255, 255, 255, 0.8);*/
+    /*border: 1px solid rgba(0, 0, 0, 0.8);*/
+    /*padding: 4rem;*/
+    font-size: 30px;
+    cursor: pointer;
+}

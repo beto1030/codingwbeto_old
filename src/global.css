@@ -1,0 +1,42 @@
+html,body {
+    min-height: 100%;
+}
+body {
+    /*background: radial-gradient(at top left, rgba(130, 173, 215, 0.7) 0%, rgba(12, 48, 84, 1) 100%);*/
+    /*background: radial-gradient(at top left, rgba(255, 255, 255, 1) 0%, rgba(189, 185, 175, 1) 100%);
+    background-repeat: no-repeat;*/
+}
+nav.navbar {
+    padding-left: -12px;
+}
+nav.navbar>div.container {
+    padding-left:0px;
+}
+footer {
+    text-align: center;
+}
+.links>a {
+    text-decoration: none;
+    color: #000000;
+    padding: 5px 10px;
+    margin: 0px 10px;
+}
+
+div.wrapper {
+    display: block;
+    width: 100%;
+    margin: 0 auto;
+}
+img {
+    border-radius: 50%;
+    display: inline-block;
+    width: 200px;
+}
+.aboutMe {
+   display: inline-block;
+   vertical-align:top;
+   width: calc(100% - 200px);
+   padding-left: 100px;
+}
+canvas {
+}

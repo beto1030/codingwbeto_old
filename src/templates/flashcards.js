@@ -1,21 +1,37 @@
 import * as React from "react"
 import { Link, graphql } from "gatsby"
 
-import Bio from "../components/Bio"
 import Layout from "../components/Layout"
 import Seo from "../components/Seo"
 
-const BlogPostTemplate = (
+import Flashcard from "../components/Flashcard"
+import {ch1Terms, ch2Terms} from "../../static/keyterms"
+import {ch1Defs, ch2Defs} from "../../static/defs"
+
+
+
+const flashcardsTemplate = (
                             { 
                               data: { previous, next, site, markdownRemark: post } ,
                               location ,
                             }
                          ) => {
   const siteTitle = site.siteMetadata?.title || `Title`
+  var currentChapterTerms = post.frontmatter.slug === "chapter-1"? ch1Terms: post.frontmatter.slug === "chapter-2"? ch2Terms: null
+
+  var currentChapterDefs = post.frontmatter.slug === "chapter-1"? ch1Defs: post.frontmatter.slug === "chapter-2"? ch2Defs: null
+
+  var terms_and_defs = currentChapterTerms.map((id, index) => {
+      return {
+        id: id,
+        term: currentChapterTerms[index],
+        def: currentChapterDefs[index]
+      }
+    })
+  console.log(terms_and_defs)
 
   return (
     <Layout location={location} title={siteTitle}>
-
       <article
         className="blog-post"
         itemScope
@@ -23,17 +39,16 @@ const BlogPostTemplate = (
       >
         <header>
           <h1 itemProp="headline">{post.frontmatter.title}</h1>
-          <p>{post.frontmatter.date}</p>
         </header>
-        <section
+
+      {/*<section
           dangerouslySetInnerHTML={{ __html: post.html }}
           itemProp="articleBody"
-        />
+        />*/}
+        <section className="grid-container p-0">
+               { terms_and_defs.map((term, idx) => <Flashcard key={idx} frontSide={term.term} backSide={term.def}/>)  }
+        </section>
 
-        <hr />
-        <footer>
-          <Bio />
-        </footer>
       </article>
 
       <nav className="blog-post-nav">
@@ -75,10 +90,10 @@ export const Head = ({ data: { markdownRemark: post } }) => {
   )
 }
 
-export default BlogPostTemplate
+export default flashcardsTemplate
 
 export const pageQuery = graphql`
-  query BlogPostBySlug(
+  query FlashcardsBySlug(
     $id: String!
     $previousPostId: String
     $nextPostId: String
@@ -96,6 +111,7 @@ export const pageQuery = graphql`
         title
         date(formatString: "MMMM DD, YYYY")
         description
+        slug
       }
     }
     previous: markdownRemark(id: { eq: $previousPostId }) {
