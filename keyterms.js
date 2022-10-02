@@ -55,6 +55,13 @@ export const ch2Terms = [
 "ch2 fourth term",
 "ch2 fifth term",
 ]
+export const ch3Terms = [
+        "ch3 first term",
+        "ch3 second term",
+        "ch3 third term",
+        "ch3 fourth term",
+        "ch3 fifth term",
+    ]
 /*export const keyterms = {
     "chapter1":[
         {term:"geology", def:"test defintion"},
@@ -107,6 +114,6 @@ export const ch2Terms = [
     ],
     "chapter2":[
         {term: "ch2 term", def:"ch2 def"},
-    ]
+    ],
 }*/
 
