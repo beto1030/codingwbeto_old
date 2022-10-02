@@ -12,7 +12,7 @@ module.exports = {
     },
   },
 
-  pathPrefix: "/reponame",
+  pathPrefix: "/codingwbeto",
 
   plugins: [
     `gatsby-plugin-image`,
