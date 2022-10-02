@@ -1,6 +1,7 @@
 const path = require(`path`)
 const { createFilePath } = require(`gatsby-source-filesystem`)
 
+
 exports.createPages = async ({ graphql, actions, reporter }) => {
   const  {createPage}  = actions
   
@@ -13,30 +14,17 @@ exports.createPages = async ({ graphql, actions, reporter }) => {
   const results = await graphql(
     `
       {
-      blogPosts: allMarkdownRemark(sort: {fields: [frontmatter___date], order: ASC}, limit: 1000) {
-    nodes {
-      id
-      fields {
-        slug
-      }
-      frontmatter {
-        template
-        title
-      }
-    }
-    edges {
-      node {
-        id
-        frontmatter {
-          template
-          title
+        blogPosts: allMarkdownRemark(sort: {fields: [frontmatter___date], order: ASC}, limit: 1000) {
+                      nodes {
+                        id
+                        fields {
+                         slug 
+                        }
+                        frontmatter {
+                          template
+                        }
+                      }
         }
-        fields {
-          slug
-        }
-      }
-    }
-  }
       }
     `
   )
@@ -72,17 +60,30 @@ exports.createPages = async ({ graphql, actions, reporter }) => {
 }
 
 exports.onCreateNode = ({ node, actions, getNode }) => {
-  const { createNodeField } = actions
 
-  if (node.internal.type === `MarkdownRemark`) {
-    const value = createFilePath({ node, getNode })
+        // Gatsby uses Redux internally to manage state, When you impliment a Gatsby api, you are passed a collection of actions.
+        exports.onCreateNode = ({ node, actions, getNode }) => {
+          // Gatsby uses Redux internally to manage state, When you impliment a Gatsby api, you are passed a collection of actions.
+          // The object actions contains the functions and these can be individually extracted using ES6 object destructuring
 
-    createNodeField({
-      name: `slug`,
-      node,
-      value,
-    })
-  }
+            if (node.internal.type === `MarkdownRemark`) {
+              const relativeFilePath = createFilePath({
+                  node,
+                  getNode,
+                  basePath: "src/pages",
+              })
+
+              actions.createNodeField({
+                name: `slug`,
+                node,
+                value: `/pages${relativeFilePath}`,
+              })
+            }
+        }
+
+
+        // The object actions contains the functions and these can be individually extracted using ES6 object destructuring
+
 }
 
 exports.createSchemaCustomization = ({ actions }) => {

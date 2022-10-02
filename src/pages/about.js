@@ -7,7 +7,7 @@ function About({location}) {
         <Layout location={location}>
             
             <div className="wrapper">
-                <img src={myPic} alt="" href={"https://google.com"} className="" width="200px"/>
+                <img src={myPic} alt="" href={"https://google.com"} className="profilePicture" width="200px"/>
                 
                 <section className="aboutMe">
                         <h5>About Me</h5>

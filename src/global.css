@@ -27,16 +27,17 @@ div.wrapper {
     width: 100%;
     margin: 0 auto;
 }
-img {
+img.profilePicture {
     border-radius: 50%;
     display: inline-block;
     width: 200px;
+}
+img.blogImage {
+    width: 10000px;
 }
 .aboutMe {
    display: inline-block;
    vertical-align:top;
    width: calc(100% - 200px);
    padding-left: 100px;
-}
-canvas {
 }

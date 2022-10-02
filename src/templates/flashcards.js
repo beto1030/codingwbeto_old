@@ -5,8 +5,8 @@ import Layout from "../components/Layout"
 import Seo from "../components/Seo"
 
 import Flashcard from "../components/Flashcard"
-import {ch1Terms, ch2Terms} from "../../static/keyterms"
-import {ch1Defs, ch2Defs} from "../../static/defs"
+import {ch1Terms, ch2Terms, ch3Terms} from "../../static/keyterms"
+import {ch1Defs, ch2Defs, ch3Defs} from "../../static/defs"
 
 
 
@@ -17,9 +17,13 @@ const flashcardsTemplate = (
                             }
                          ) => {
   const siteTitle = site.siteMetadata?.title || `Title`
-  var currentChapterTerms = post.frontmatter.slug === "chapter-1"? ch1Terms: post.frontmatter.slug === "chapter-2"? ch2Terms: null
 
-  var currentChapterDefs = post.frontmatter.slug === "chapter-1"? ch1Defs: post.frontmatter.slug === "chapter-2"? ch2Defs: null
+  //var currentChapterTerms = post.frontmatter.slug === "chapter-1"? ch1Terms: post.frontmatter.slug === "chapter-2"? ch2Terms: null
+  //var currentChapterDefs = post.frontmatter.slug === "chapter-1"? ch1Defs: post.frontmatter.slug === "chapter-2"? ch2Defs: null
+
+  var currentChapterTerms = post.frontmatter.slug === "chapter-1"? ch1Terms: post.frontmatter.slug === "chapter-2"? ch2Terms: post.frontmatter.slug === "chapter-3"? ch3Terms: null
+
+  var currentChapterDefs = post.frontmatter.slug === "chapter-1"? ch1Defs: post.frontmatter.slug === "chapter-2"? ch2Defs: post.frontmatter.slug === "chapter-3"? ch3Defs: null
 
   var terms_and_defs = currentChapterTerms.map((id, index) => {
       return {

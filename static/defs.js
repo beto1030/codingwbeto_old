@@ -42,3 +42,9 @@ export const ch2Defs = [
 'ch2 term 2 defintion Lorem officia doloremque itaque rem fugiat saepe Ad laudantium dolor tempore dolores suscipit, tempora. Provident eos tempore recusandae fuga ab? Eos quae eos repudiandae blanditiis et quisquam, dignissimos cupiditate ut',
 'ch2 term 3 defintion Lorem officia doloremque itaque rem fugiat saepe Ad laudantium dolor tempore dolores suscipit, tempora. Provident eos tempore recusandae fuga ab? Eos quae eos repudiandae blanditiis et quisquam, dignissimos cupiditate ut',
 ]
+
+export const ch3Defs = [
+'ch3 Sit voluptatem adipisicing voluptatibus cupiditate quas. Soluta voluptatibus rem quisquam aliquam soluta Minima cumque saepe beatae ut unde? Maiores amet nihil voluptatibus necessitatibus accusamus Cumque minima doloremque quam unde tenetur Cupiditate pariatur ratione facere cumque non. Molestias itaque architecto nulla?',
+'ch3 Sit voluptatem adipisicing voluptatibus cupiditate quas. Soluta voluptatibus rem quisquam aliquam soluta Minima cumque saepe beatae ut unde? Maiores amet nihil voluptatibus necessitatibus accusamus Cumque minima doloremque quam unde tenetur Cupiditate pariatur ratione facere cumque non. Molestias itaque architecto nulla?',
+'ch3 Sit voluptatem adipisicing voluptatibus cupiditate quas. Soluta voluptatibus rem quisquam aliquam soluta Minima cumque saepe beatae ut unde? Maiores amet nihil voluptatibus necessitatibus accusamus Cumque minima doloremque quam unde tenetur Cupiditate pariatur ratione facere cumque non. Molestias itaque architecto nulla?',
+]
