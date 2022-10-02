@@ -1,6 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Gatsby Starter Blog RSS Feed]]></title><description><![CDATA[A starter blog demonstrating what Gatsby can do.]]></description><link>https://beto1030.github.io/codingwbeto</link><generator>GatsbyJS</generator><lastBuildDate>Sun, 02 Oct 2022 19:56:53 GMT</lastBuildDate><item><title><![CDATA[Geology Chapter 3]]></title><description><![CDATA[This is my first post on my new fake blog! How exciting! Chapter 3]]></description><link>https://beto1030.github.io/codingwbeto/pages/chapter3/</link><guid isPermaLink="false">https://beto1030.github.io/codingwbeto/pages/chapter3/</guid><pubDate>Mon, 05 Sep 2022 22:12:03 GMT</pubDate><content:encoded>&lt;p&gt;This is my first post on my new fake blog! How exciting!&lt;/p&gt;
-&lt;p&gt;Chapter 3&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Geology Chapter 2]]></title><description><![CDATA[This is my first post on my new fake blog! How exciting! Chapter 2]]></description><link>https://beto1030.github.io/codingwbeto/pages/chapter2/</link><guid isPermaLink="false">https://beto1030.github.io/codingwbeto/pages/chapter2/</guid><pubDate>Mon, 05 Sep 2022 22:12:03 GMT</pubDate><content:encoded>&lt;p&gt;This is my first post on my new fake blog! How exciting!&lt;/p&gt;
-&lt;p&gt;Chapter 2&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Geology Chapter 1]]></title><description><![CDATA[Chapter 1]]></description><link>https://beto1030.github.io/codingwbeto/pages/chapter1/</link><guid isPermaLink="false">https://beto1030.github.io/codingwbeto/pages/chapter1/</guid><pubDate>Mon, 05 Sep 2022 22:12:03 GMT</pubDate><content:encoded>&lt;p&gt;Chapter 1&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Gatsby blog tutorial]]></title><description><![CDATA[In this tutorial we will go over how to create a blog using gatsby. Table of Contents Installation Run a gatsby preview server Edit src…]]></description><link>https://beto1030.github.io/codingwbeto/pages/gatsby-blog-tutorial/</link><guid isPermaLink="false">https://beto1030.github.io/codingwbeto/pages/gatsby-blog-tutorial/</guid><pubDate>Sat, 19 Sep 2015 22:12:03 GMT</pubDate><content:encoded>&lt;p&gt;In this tutorial we will go over how to create a blog using gatsby.&lt;/p&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Gatsby Starter Blog RSS Feed]]></title><description><![CDATA[A starter blog demonstrating what Gatsby can do.]]></description><link>https://beto1030.github.io/codingwbeto</link><generator>GatsbyJS</generator><lastBuildDate>Sun, 02 Oct 2022 20:04:04 GMT</lastBuildDate><item><title><![CDATA[Geology Chapter 2]]></title><description><![CDATA[This is my first post on my new fake blog! How exciting! Chapter 2]]></description><link>https://beto1030.github.io/codingwbeto/pages/chapter2/</link><guid isPermaLink="false">https://beto1030.github.io/codingwbeto/pages/chapter2/</guid><pubDate>Mon, 05 Sep 2022 22:12:03 GMT</pubDate><content:encoded>&lt;p&gt;This is my first post on my new fake blog! How exciting!&lt;/p&gt;
+&lt;p&gt;Chapter 2&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Geology Chapter 3]]></title><description><![CDATA[This is my first post on my new fake blog! How exciting! Chapter 3]]></description><link>https://beto1030.github.io/codingwbeto/pages/chapter3/</link><guid isPermaLink="false">https://beto1030.github.io/codingwbeto/pages/chapter3/</guid><pubDate>Mon, 05 Sep 2022 22:12:03 GMT</pubDate><content:encoded>&lt;p&gt;This is my first post on my new fake blog! How exciting!&lt;/p&gt;
+&lt;p&gt;Chapter 3&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Geology Chapter 1]]></title><description><![CDATA[Chapter 1]]></description><link>https://beto1030.github.io/codingwbeto/pages/chapter1/</link><guid isPermaLink="false">https://beto1030.github.io/codingwbeto/pages/chapter1/</guid><pubDate>Mon, 05 Sep 2022 22:12:03 GMT</pubDate><content:encoded>&lt;p&gt;Chapter 1&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Gatsby blog tutorial]]></title><description><![CDATA[In this tutorial we will go over how to create a blog using gatsby. Table of Contents Installation Run a gatsby preview server Edit src…]]></description><link>https://beto1030.github.io/codingwbeto/pages/gatsby-blog-tutorial/</link><guid isPermaLink="false">https://beto1030.github.io/codingwbeto/pages/gatsby-blog-tutorial/</guid><pubDate>Sat, 19 Sep 2015 22:12:03 GMT</pubDate><content:encoded>&lt;p&gt;In this tutorial we will go over how to create a blog using gatsby.&lt;/p&gt;
 &lt;h3&gt;Table of Contents&lt;/h3&gt;
 &lt;ol&gt;
 &lt;li&gt;&lt;a href=&quot;#installation&quot;&gt;Installation&lt;/a&gt;&lt;/li&gt;
@@ -42,7 +42,7 @@
     &gt;
       &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/reponame/static/9b5f38830a0d8f679d6524d2c2ae7c2d/644c5/starterSite.jpg&quot;
+    href=&quot;/codingwbeto/static/9b5f38830a0d8f679d6524d2c2ae7c2d/644c5/starterSite.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -55,13 +55,13 @@
         class=&quot;gatsby-resp-image-image&quot;
         alt=&quot;npm run develop&quot;
         title=&quot;npm run develop&quot;
-        src=&quot;/reponame/static/9b5f38830a0d8f679d6524d2c2ae7c2d/828fb/starterSite.jpg&quot;
-        srcset=&quot;/reponame/static/9b5f38830a0d8f679d6524d2c2ae7c2d/ff44c/starterSite.jpg 158w,
-/reponame/static/9b5f38830a0d8f679d6524d2c2ae7c2d/a6688/starterSite.jpg 315w,
-/reponame/static/9b5f38830a0d8f679d6524d2c2ae7c2d/828fb/starterSite.jpg 630w,
-/reponame/static/9b5f38830a0d8f679d6524d2c2ae7c2d/0ede0/starterSite.jpg 945w,
-/reponame/static/9b5f38830a0d8f679d6524d2c2ae7c2d/3ac88/starterSite.jpg 1260w,
-/reponame/static/9b5f38830a0d8f679d6524d2c2ae7c2d/644c5/starterSite.jpg 1440w&quot;
+        src=&quot;/codingwbeto/static/9b5f38830a0d8f679d6524d2c2ae7c2d/828fb/starterSite.jpg&quot;
+        srcset=&quot;/codingwbeto/static/9b5f38830a0d8f679d6524d2c2ae7c2d/ff44c/starterSite.jpg 158w,
+/codingwbeto/static/9b5f38830a0d8f679d6524d2c2ae7c2d/a6688/starterSite.jpg 315w,
+/codingwbeto/static/9b5f38830a0d8f679d6524d2c2ae7c2d/828fb/starterSite.jpg 630w,
+/codingwbeto/static/9b5f38830a0d8f679d6524d2c2ae7c2d/0ede0/starterSite.jpg 945w,
+/codingwbeto/static/9b5f38830a0d8f679d6524d2c2ae7c2d/3ac88/starterSite.jpg 1260w,
+/codingwbeto/static/9b5f38830a0d8f679d6524d2c2ae7c2d/644c5/starterSite.jpg 1440w&quot;
         sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
         style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
         loading=&quot;lazy&quot;
@@ -78,7 +78,7 @@
     &gt;
       &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/reponame/static/c54629316ef636d29ab2b66c17ef2c48/669cd/editingIndex.png&quot;
+    href=&quot;/codingwbeto/static/c54629316ef636d29ab2b66c17ef2c48/669cd/editingIndex.png&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -91,13 +91,13 @@
         class=&quot;gatsby-resp-image-image&quot;
         alt=&quot;Editing src/pages/index.js&quot;
         title=&quot;Editing src/pages/index.js&quot;
-        src=&quot;/reponame/static/c54629316ef636d29ab2b66c17ef2c48/f058b/editingIndex.png&quot;
-        srcset=&quot;/reponame/static/c54629316ef636d29ab2b66c17ef2c48/c26ae/editingIndex.png 158w,
-/reponame/static/c54629316ef636d29ab2b66c17ef2c48/6bdcf/editingIndex.png 315w,
-/reponame/static/c54629316ef636d29ab2b66c17ef2c48/f058b/editingIndex.png 630w,
-/reponame/static/c54629316ef636d29ab2b66c17ef2c48/40601/editingIndex.png 945w,
-/reponame/static/c54629316ef636d29ab2b66c17ef2c48/78612/editingIndex.png 1260w,
-/reponame/static/c54629316ef636d29ab2b66c17ef2c48/669cd/editingIndex.png 3024w&quot;
+        src=&quot;/codingwbeto/static/c54629316ef636d29ab2b66c17ef2c48/f058b/editingIndex.png&quot;
+        srcset=&quot;/codingwbeto/static/c54629316ef636d29ab2b66c17ef2c48/c26ae/editingIndex.png 158w,
+/codingwbeto/static/c54629316ef636d29ab2b66c17ef2c48/6bdcf/editingIndex.png 315w,
+/codingwbeto/static/c54629316ef636d29ab2b66c17ef2c48/f058b/editingIndex.png 630w,
+/codingwbeto/static/c54629316ef636d29ab2b66c17ef2c48/40601/editingIndex.png 945w,
+/codingwbeto/static/c54629316ef636d29ab2b66c17ef2c48/78612/editingIndex.png 1260w,
+/codingwbeto/static/c54629316ef636d29ab2b66c17ef2c48/669cd/editingIndex.png 3024w&quot;
         sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
         style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
         loading=&quot;lazy&quot;
@@ -115,7 +115,7 @@
     &gt;
       &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/reponame/static/d91e80309e61a549bdea675459cb6db2/de0bd/navComponentFunction.png&quot;
+    href=&quot;/codingwbeto/static/d91e80309e61a549bdea675459cb6db2/de0bd/navComponentFunction.png&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -128,13 +128,13 @@
         class=&quot;gatsby-resp-image-image&quot;
         alt=&quot;Nav Component Function&quot;
         title=&quot;Nav Component Function&quot;
-        src=&quot;/reponame/static/d91e80309e61a549bdea675459cb6db2/f058b/navComponentFunction.png&quot;
-        srcset=&quot;/reponame/static/d91e80309e61a549bdea675459cb6db2/c26ae/navComponentFunction.png 158w,
-/reponame/static/d91e80309e61a549bdea675459cb6db2/6bdcf/navComponentFunction.png 315w,
-/reponame/static/d91e80309e61a549bdea675459cb6db2/f058b/navComponentFunction.png 630w,
-/reponame/static/d91e80309e61a549bdea675459cb6db2/40601/navComponentFunction.png 945w,
-/reponame/static/d91e80309e61a549bdea675459cb6db2/78612/navComponentFunction.png 1260w,
-/reponame/static/d91e80309e61a549bdea675459cb6db2/de0bd/navComponentFunction.png 2238w&quot;
+        src=&quot;/codingwbeto/static/d91e80309e61a549bdea675459cb6db2/f058b/navComponentFunction.png&quot;
+        srcset=&quot;/codingwbeto/static/d91e80309e61a549bdea675459cb6db2/c26ae/navComponentFunction.png 158w,
+/codingwbeto/static/d91e80309e61a549bdea675459cb6db2/6bdcf/navComponentFunction.png 315w,
+/codingwbeto/static/d91e80309e61a549bdea675459cb6db2/f058b/navComponentFunction.png 630w,
+/codingwbeto/static/d91e80309e61a549bdea675459cb6db2/40601/navComponentFunction.png 945w,
+/codingwbeto/static/d91e80309e61a549bdea675459cb6db2/78612/navComponentFunction.png 1260w,
+/codingwbeto/static/d91e80309e61a549bdea675459cb6db2/de0bd/navComponentFunction.png 2238w&quot;
         sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
         style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
         loading=&quot;lazy&quot;
@@ -149,7 +149,7 @@
     &gt;
       &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/reponame/static/9a07ae22fda002344d3281a8f4f56c7b/6660b/navComponentArrowFunction.png&quot;
+    href=&quot;/codingwbeto/static/9a07ae22fda002344d3281a8f4f56c7b/6660b/navComponentArrowFunction.png&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -162,13 +162,13 @@
         class=&quot;gatsby-resp-image-image&quot;
         alt=&quot;Nav Component Arrow Function&quot;
         title=&quot;Nav Component Arrow Function&quot;
-        src=&quot;/reponame/static/9a07ae22fda002344d3281a8f4f56c7b/f058b/navComponentArrowFunction.png&quot;
-        srcset=&quot;/reponame/static/9a07ae22fda002344d3281a8f4f56c7b/c26ae/navComponentArrowFunction.png 158w,
-/reponame/static/9a07ae22fda002344d3281a8f4f56c7b/6bdcf/navComponentArrowFunction.png 315w,
-/reponame/static/9a07ae22fda002344d3281a8f4f56c7b/f058b/navComponentArrowFunction.png 630w,
-/reponame/static/9a07ae22fda002344d3281a8f4f56c7b/40601/navComponentArrowFunction.png 945w,
-/reponame/static/9a07ae22fda002344d3281a8f4f56c7b/78612/navComponentArrowFunction.png 1260w,
-/reponame/static/9a07ae22fda002344d3281a8f4f56c7b/6660b/navComponentArrowFunction.png 2278w&quot;
+        src=&quot;/codingwbeto/static/9a07ae22fda002344d3281a8f4f56c7b/f058b/navComponentArrowFunction.png&quot;
+        srcset=&quot;/codingwbeto/static/9a07ae22fda002344d3281a8f4f56c7b/c26ae/navComponentArrowFunction.png 158w,
+/codingwbeto/static/9a07ae22fda002344d3281a8f4f56c7b/6bdcf/navComponentArrowFunction.png 315w,
+/codingwbeto/static/9a07ae22fda002344d3281a8f4f56c7b/f058b/navComponentArrowFunction.png 630w,
+/codingwbeto/static/9a07ae22fda002344d3281a8f4f56c7b/40601/navComponentArrowFunction.png 945w,
+/codingwbeto/static/9a07ae22fda002344d3281a8f4f56c7b/78612/navComponentArrowFunction.png 1260w,
+/codingwbeto/static/9a07ae22fda002344d3281a8f4f56c7b/6660b/navComponentArrowFunction.png 2278w&quot;
         sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
         style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
         loading=&quot;lazy&quot;
@@ -185,7 +185,7 @@
     &gt;
       &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/reponame/static/eb64abfd2937e87f16e85a4898b3afae/5fada/gatsby-browser.png&quot;
+    href=&quot;/codingwbeto/static/eb64abfd2937e87f16e85a4898b3afae/5fada/gatsby-browser.png&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -198,13 +198,13 @@
         class=&quot;gatsby-resp-image-image&quot;
         alt=&quot;Gatsby Browser Page&quot;
         title=&quot;Gatsby Browser Page&quot;
-        src=&quot;/reponame/static/eb64abfd2937e87f16e85a4898b3afae/f058b/gatsby-browser.png&quot;
-        srcset=&quot;/reponame/static/eb64abfd2937e87f16e85a4898b3afae/c26ae/gatsby-browser.png 158w,
-/reponame/static/eb64abfd2937e87f16e85a4898b3afae/6bdcf/gatsby-browser.png 315w,
-/reponame/static/eb64abfd2937e87f16e85a4898b3afae/f058b/gatsby-browser.png 630w,
-/reponame/static/eb64abfd2937e87f16e85a4898b3afae/40601/gatsby-browser.png 945w,
-/reponame/static/eb64abfd2937e87f16e85a4898b3afae/78612/gatsby-browser.png 1260w,
-/reponame/static/eb64abfd2937e87f16e85a4898b3afae/5fada/gatsby-browser.png 1706w&quot;
+        src=&quot;/codingwbeto/static/eb64abfd2937e87f16e85a4898b3afae/f058b/gatsby-browser.png&quot;
+        srcset=&quot;/codingwbeto/static/eb64abfd2937e87f16e85a4898b3afae/c26ae/gatsby-browser.png 158w,
+/codingwbeto/static/eb64abfd2937e87f16e85a4898b3afae/6bdcf/gatsby-browser.png 315w,
+/codingwbeto/static/eb64abfd2937e87f16e85a4898b3afae/f058b/gatsby-browser.png 630w,
+/codingwbeto/static/eb64abfd2937e87f16e85a4898b3afae/40601/gatsby-browser.png 945w,
+/codingwbeto/static/eb64abfd2937e87f16e85a4898b3afae/78612/gatsby-browser.png 1260w,
+/codingwbeto/static/eb64abfd2937e87f16e85a4898b3afae/5fada/gatsby-browser.png 1706w&quot;
         sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
         style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
         loading=&quot;lazy&quot;
@@ -219,7 +219,7 @@
     &gt;
       &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/reponame/static/3c618844eb5f78ce6a68ecd964934ee5/5522e/importingNav.png&quot;
+    href=&quot;/codingwbeto/static/3c618844eb5f78ce6a68ecd964934ee5/5522e/importingNav.png&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -232,13 +232,13 @@
         class=&quot;gatsby-resp-image-image&quot;
         alt=&quot;Importing Nav&quot;
         title=&quot;Importing Nav&quot;
-        src=&quot;/reponame/static/3c618844eb5f78ce6a68ecd964934ee5/f058b/importingNav.png&quot;
-        srcset=&quot;/reponame/static/3c618844eb5f78ce6a68ecd964934ee5/c26ae/importingNav.png 158w,
-/reponame/static/3c618844eb5f78ce6a68ecd964934ee5/6bdcf/importingNav.png 315w,
-/reponame/static/3c618844eb5f78ce6a68ecd964934ee5/f058b/importingNav.png 630w,
-/reponame/static/3c618844eb5f78ce6a68ecd964934ee5/40601/importingNav.png 945w,
-/reponame/static/3c618844eb5f78ce6a68ecd964934ee5/78612/importingNav.png 1260w,
-/reponame/static/3c618844eb5f78ce6a68ecd964934ee5/5522e/importingNav.png 2680w&quot;
+        src=&quot;/codingwbeto/static/3c618844eb5f78ce6a68ecd964934ee5/f058b/importingNav.png&quot;
+        srcset=&quot;/codingwbeto/static/3c618844eb5f78ce6a68ecd964934ee5/c26ae/importingNav.png 158w,
+/codingwbeto/static/3c618844eb5f78ce6a68ecd964934ee5/6bdcf/importingNav.png 315w,
+/codingwbeto/static/3c618844eb5f78ce6a68ecd964934ee5/f058b/importingNav.png 630w,
+/codingwbeto/static/3c618844eb5f78ce6a68ecd964934ee5/40601/importingNav.png 945w,
+/codingwbeto/static/3c618844eb5f78ce6a68ecd964934ee5/78612/importingNav.png 1260w,
+/codingwbeto/static/3c618844eb5f78ce6a68ecd964934ee5/5522e/importingNav.png 2680w&quot;
         sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
         style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
         loading=&quot;lazy&quot;
@@ -253,7 +253,7 @@
     &gt;
       &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/reponame/static/fac13ecd4e440d8692bc98b18bb7f5ca/669cd/previewNav.png&quot;
+    href=&quot;/codingwbeto/static/fac13ecd4e440d8692bc98b18bb7f5ca/669cd/previewNav.png&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -266,13 +266,13 @@
         class=&quot;gatsby-resp-image-image&quot;
         alt=&quot;Preview Nav&quot;
         title=&quot;Preview Nav&quot;
-        src=&quot;/reponame/static/fac13ecd4e440d8692bc98b18bb7f5ca/f058b/previewNav.png&quot;
-        srcset=&quot;/reponame/static/fac13ecd4e440d8692bc98b18bb7f5ca/c26ae/previewNav.png 158w,
-/reponame/static/fac13ecd4e440d8692bc98b18bb7f5ca/6bdcf/previewNav.png 315w,
-/reponame/static/fac13ecd4e440d8692bc98b18bb7f5ca/f058b/previewNav.png 630w,
-/reponame/static/fac13ecd4e440d8692bc98b18bb7f5ca/40601/previewNav.png 945w,
-/reponame/static/fac13ecd4e440d8692bc98b18bb7f5ca/78612/previewNav.png 1260w,
-/reponame/static/fac13ecd4e440d8692bc98b18bb7f5ca/669cd/previewNav.png 3024w&quot;
+        src=&quot;/codingwbeto/static/fac13ecd4e440d8692bc98b18bb7f5ca/f058b/previewNav.png&quot;
+        srcset=&quot;/codingwbeto/static/fac13ecd4e440d8692bc98b18bb7f5ca/c26ae/previewNav.png 158w,
+/codingwbeto/static/fac13ecd4e440d8692bc98b18bb7f5ca/6bdcf/previewNav.png 315w,
+/codingwbeto/static/fac13ecd4e440d8692bc98b18bb7f5ca/f058b/previewNav.png 630w,
+/codingwbeto/static/fac13ecd4e440d8692bc98b18bb7f5ca/40601/previewNav.png 945w,
+/codingwbeto/static/fac13ecd4e440d8692bc98b18bb7f5ca/78612/previewNav.png 1260w,
+/codingwbeto/static/fac13ecd4e440d8692bc98b18bb7f5ca/669cd/previewNav.png 3024w&quot;
         sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
         style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
         loading=&quot;lazy&quot;
