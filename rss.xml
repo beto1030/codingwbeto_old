@@ -1,26 +1,20 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Gatsby Starter Blog RSS Feed]]></title><description><![CDATA[A starter blog demonstrating what Gatsby can do.]]></description><link>https://beto1030.github.io/codingwbeto</link><generator>GatsbyJS</generator><lastBuildDate>Sun, 02 Oct 2022 20:04:04 GMT</lastBuildDate><item><title><![CDATA[Geology Chapter 2]]></title><description><![CDATA[This is my first post on my new fake blog! How exciting! Chapter 2]]></description><link>https://beto1030.github.io/codingwbeto/pages/chapter2/</link><guid isPermaLink="false">https://beto1030.github.io/codingwbeto/pages/chapter2/</guid><pubDate>Mon, 05 Sep 2022 22:12:03 GMT</pubDate><content:encoded>&lt;p&gt;This is my first post on my new fake blog! How exciting!&lt;/p&gt;
-&lt;p&gt;Chapter 2&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Geology Chapter 3]]></title><description><![CDATA[This is my first post on my new fake blog! How exciting! Chapter 3]]></description><link>https://beto1030.github.io/codingwbeto/pages/chapter3/</link><guid isPermaLink="false">https://beto1030.github.io/codingwbeto/pages/chapter3/</guid><pubDate>Mon, 05 Sep 2022 22:12:03 GMT</pubDate><content:encoded>&lt;p&gt;This is my first post on my new fake blog! How exciting!&lt;/p&gt;
-&lt;p&gt;Chapter 3&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Geology Chapter 1]]></title><description><![CDATA[Chapter 1]]></description><link>https://beto1030.github.io/codingwbeto/pages/chapter1/</link><guid isPermaLink="false">https://beto1030.github.io/codingwbeto/pages/chapter1/</guid><pubDate>Mon, 05 Sep 2022 22:12:03 GMT</pubDate><content:encoded>&lt;p&gt;Chapter 1&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Gatsby blog tutorial]]></title><description><![CDATA[In this tutorial we will go over how to create a blog using gatsby. Table of Contents Installation Run a gatsby preview server Edit src…]]></description><link>https://beto1030.github.io/codingwbeto/pages/gatsby-blog-tutorial/</link><guid isPermaLink="false">https://beto1030.github.io/codingwbeto/pages/gatsby-blog-tutorial/</guid><pubDate>Sat, 19 Sep 2015 22:12:03 GMT</pubDate><content:encoded>&lt;p&gt;In this tutorial we will go over how to create a blog using gatsby.&lt;/p&gt;
-&lt;h3&gt;Table of Contents&lt;/h3&gt;
-&lt;ol&gt;
-&lt;li&gt;&lt;a href=&quot;#installation&quot;&gt;Installation&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;#run-a-gatsby-preview-server&quot;&gt;Run a gatsby preview server&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;#edit-src/pages/indexjs&quot;&gt;Edit src/pages/index.js&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;#edit-one-of-the-blog-posts&quot;&gt;Edit one of the blog posts&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;#understand-how-gatsby-creates-our-blog-posts&quot;&gt;Understand how gatsby creates our blog posts&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;#test-our-understanding-how-gatsby-creates-our-blog-posts&quot;&gt;Test our understanding how gatsby creates our blog posts&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;#connect-a-headless-cms&quot;&gt;Connect a headless cms&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;#use-Github-to-host-your-blog-for-free&quot;&gt;Use Github to host your blog for free&lt;/a&gt;&lt;/li&gt;
-&lt;/ol&gt;
-&lt;h3&gt;Installation&lt;a name=&quot;installation&quot;&gt;&lt;/a&gt;&lt;/h3&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Gatsby Starter Blog RSS Feed]]></title><description><![CDATA[A starter blog demonstrating what Gatsby can do.]]></description><link>https://beto1030.github.io/codingwbeto</link><generator>GatsbyJS</generator><lastBuildDate>Wed, 19 Oct 2022 08:55:50 GMT</lastBuildDate><item><title><![CDATA[Geology Chapter 3]]></title><description><![CDATA[This is my first post on my new fake blog! How exciting! Chapter 3]]></description><link>https://beto1030.github.io/codingwbeto/pages/chapter3/</link><guid isPermaLink="false">https://beto1030.github.io/codingwbeto/pages/chapter3/</guid><pubDate>Mon, 05 Sep 2022 22:12:03 GMT</pubDate><content:encoded>&lt;p&gt;This is my first post on my new fake blog! How exciting!&lt;/p&gt;
+&lt;p&gt;Chapter 3&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Geology Chapter 2]]></title><description><![CDATA[This is my first post on my new fake blog! How exciting! Chapter 2]]></description><link>https://beto1030.github.io/codingwbeto/pages/chapter2/</link><guid isPermaLink="false">https://beto1030.github.io/codingwbeto/pages/chapter2/</guid><pubDate>Mon, 05 Sep 2022 22:12:03 GMT</pubDate><content:encoded>&lt;p&gt;This is my first post on my new fake blog! How exciting!&lt;/p&gt;
+&lt;p&gt;Chapter 2&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Geology Chapter 1]]></title><description><![CDATA[Chapter 1]]></description><link>https://beto1030.github.io/codingwbeto/pages/chapter1/</link><guid isPermaLink="false">https://beto1030.github.io/codingwbeto/pages/chapter1/</guid><pubDate>Mon, 05 Sep 2022 22:12:03 GMT</pubDate><content:encoded>&lt;p&gt;Chapter 1&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Gatsby blog tutorial part 3]]></title><description><![CDATA[In this tutorial I will show you how to host your blog for free on github. Host your blog with github Github Client Git Client]]></description><link>https://beto1030.github.io/codingwbeto/pages/gatsby-blog-tutorial-part-3/</link><guid isPermaLink="false">https://beto1030.github.io/codingwbeto/pages/gatsby-blog-tutorial-part-3/</guid><pubDate>Sat, 19 Sep 2015 22:12:03 GMT</pubDate><content:encoded>&lt;p&gt;In this tutorial I will show you how to host your blog for free on github.&lt;/p&gt;
+&lt;h3 id=&quot;host-your-blog-with-github&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#host-your-blog-with-github&quot; aria-label=&quot;host your blog with github permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Host your blog with github&lt;/h3&gt;
+&lt;h6 id=&quot;github-client&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#github-client&quot; aria-label=&quot;github client permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Github Client&lt;/h6&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;brew install gh&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;h6 id=&quot;git-client&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#git-client&quot; aria-label=&quot;git client permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Git Client&lt;/h6&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;brew install git&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</content:encoded></item><item><title><![CDATA[Gatsby blog tutorial part 1]]></title><description><![CDATA[In this tutorial we will go over how to create a blog using gatsby. Installation Use a curl command to install Homebrew inside the /bin/bash…]]></description><link>https://beto1030.github.io/codingwbeto/pages/gatsby-blog-tutorial-part-1/</link><guid isPermaLink="false">https://beto1030.github.io/codingwbeto/pages/gatsby-blog-tutorial-part-1/</guid><pubDate>Sat, 19 Sep 2015 22:12:03 GMT</pubDate><content:encoded>&lt;p&gt;In this tutorial we will go over how to create a blog using gatsby.&lt;/p&gt;
+&lt;h3 id=&quot;installation&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#installation&quot; aria-label=&quot;installation permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Installation&lt;/h3&gt;
 &lt;p&gt;Use a curl command to install &lt;a href=&quot;https://brew.sh/&quot; target=&quot;_blank&quot;&gt;Homebrew&lt;/a&gt; inside the /bin/bash directory &lt;br/&gt;&lt;/p&gt;
-&lt;h6&gt;Open your terminal and run&lt;/h6&gt;
+&lt;h6 id=&quot;open-your-terminal-and-run&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#open-your-terminal-and-run&quot; aria-label=&quot;open your terminal and run permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Open your terminal and run&lt;/h6&gt;
 &lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;shell&quot;&gt;&lt;pre class=&quot;language-shell&quot;&gt;&lt;code class=&quot;language-shell&quot;&gt;/bin/bash &lt;span class=&quot;token parameter variable&quot;&gt;-c&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&quot;&lt;span class=&quot;token variable&quot;&gt;&lt;span class=&quot;token variable&quot;&gt;$(&lt;/span&gt;&lt;span class=&quot;token function&quot;&gt;curl&lt;/span&gt; &lt;span class=&quot;token parameter variable&quot;&gt;-fsSL&lt;/span&gt; https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh&lt;span class=&quot;token variable&quot;&gt;)&lt;/span&gt;&lt;/span&gt;&quot;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-&lt;h6&gt;Use brew to install Node&lt;/h6&gt;
+&lt;h6 id=&quot;use-brew-to-install-node&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#use-brew-to-install-node&quot; aria-label=&quot;use brew to install node permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Use brew to install Node&lt;/h6&gt;
 &lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;brew install node &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-&lt;h6&gt;Use node to install gatsby&lt;/h6&gt;
+&lt;h6 id=&quot;use-node-to-install-gatsby&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#use-node-to-install-gatsby&quot; aria-label=&quot;use node to install gatsby permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Use node to install gatsby&lt;/h6&gt;
 &lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;npm install gatsby&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-&lt;h6&gt;Use npm to initialize gatsby project&lt;/h6&gt;
+&lt;h6 id=&quot;use-npm-to-initialize-gatsby-project&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#use-npm-to-initialize-gatsby-project&quot; aria-label=&quot;use npm to initialize gatsby project permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Use npm to initialize gatsby project&lt;/h6&gt;
 &lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;npm init gatsby&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
 &lt;p&gt;Change into your project directory&lt;/p&gt;
 &lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;cd gatsby-starter-blog&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
@@ -33,8 +27,8 @@
   package-lock.json
   package.json
   README.md&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-&lt;h3&gt;Run a Gatsby preview server &lt;a name=&quot;run-a-gatsby-preview-server&quot;&gt;&lt;/a&gt;&lt;/h3&gt;
-&lt;h6&gt;Lets see what this gatsby starter site looks like, run the following command&lt;/h6&gt;
+&lt;h3 id=&quot;run-a-gatsby-preview-server&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#run-a-gatsby-preview-server&quot; aria-label=&quot;run a gatsby preview server permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Run a Gatsby preview server&lt;/h3&gt;
+&lt;h6 id=&quot;lets-see-what-this-gatsby-starter-site-looks-like-run-the-following-command&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#lets-see-what-this-gatsby-starter-site-looks-like-run-the-following-command&quot; aria-label=&quot;lets see what this gatsby starter site looks like run the following command permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Lets see what this gatsby starter site looks like, run the following command&lt;/h6&gt;
 &lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;npm run develop&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
 &lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
@@ -68,8 +62,13 @@
         decoding=&quot;async&quot;
       /&gt;
   &lt;/a&gt;
-    &lt;/span&gt;&lt;/p&gt;
-&lt;h3&gt;Edit src/pages/index.js &lt;a name=&quot;edit-src/pages/index.js&quot;&gt;&lt;/a&gt;&lt;/h3&gt;
+    &lt;/span&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Gatsby blog tutorial part 2]]></title><description><![CDATA[In this tutorial we will do the following: Edit Homepage When you ran the Gatsby preview server, it says to edit src/pages/index.js so lets…]]></description><link>https://beto1030.github.io/codingwbeto/pages/gatsby-blog-tutorial-part-2/</link><guid isPermaLink="false">https://beto1030.github.io/codingwbeto/pages/gatsby-blog-tutorial-part-2/</guid><pubDate>Sat, 19 Sep 2015 22:12:03 GMT</pubDate><content:encoded>&lt;p&gt;In this tutorial we will do the following:&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;- Delete the congratulations message
+
+- Use normalize.css to guarantee consistency of css styling with all browsers
+
+- Create a navbar component and use bootstrap for styling&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;h3 id=&quot;edit-homepage&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#edit-homepage&quot; aria-label=&quot;edit homepage permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Edit Homepage&lt;/h3&gt;
 &lt;p&gt;When you ran the Gatsby preview server, it says to edit src/pages/index.js so lets give that a try.&lt;/p&gt;
 &lt;p&gt;Lets start off by deleting the congradulations message and the line it says to edit the src/pages/index.js file&lt;/p&gt;
 &lt;p&gt;&lt;span
@@ -105,44 +104,9 @@
       /&gt;
   &lt;/a&gt;
     &lt;/span&gt;&lt;/p&gt;
+&lt;h3 id=&quot;navbar-component&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#navbar-component&quot; aria-label=&quot;navbar component permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Navbar component&lt;/h3&gt;
 &lt;p&gt;Lets go ahead and add a navbar&lt;/p&gt;
-&lt;p&gt;This is a good place to introduce what React calls components, all your pages will have a navbar. Why hardcode that navbar on every page? Doing that will eventually give you unnessary headacks from silly things such as typo errors. The idea behind React components is so that you write the code once and just import it in all your pages.&lt;/p&gt;
-&lt;p&gt;Create a file inside src/components/ name it Navbar.js&lt;/p&gt;
-&lt;p&gt;You have two diffrent ways you can create this component, using a regular function&lt;/p&gt;
-&lt;p&gt;&lt;span
-      class=&quot;gatsby-resp-image-wrapper&quot;
-      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
-    &gt;
-      &lt;a
-    class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/codingwbeto/static/d91e80309e61a549bdea675459cb6db2/de0bd/navComponentFunction.png&quot;
-    style=&quot;display: block&quot;
-    target=&quot;_blank&quot;
-    rel=&quot;noopener&quot;
-  &gt;
-    &lt;span
-    class=&quot;gatsby-resp-image-background-image&quot;
-    style=&quot;padding-bottom: 34.177215189873415%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAHCAYAAAAIy204AAAACXBIWXMAABYlAAAWJQFJUiTwAAAA/klEQVQoz5VQy26EMBALLOTFJOQJ2QUJpFZV//8HXTHbXnrp9mDF42gsewSpCc4QZu0ghICdJnx8bvDRIZWC6CKSTuhEx/9/ou4V7Vjhg8YwCMzeY39/g/IOShv0/e11swvzsiKsDbdhZMH7GW0t6ISA0QYpRaSQOGVUEVlnVFt5loOEHCWUUpDy+QqKAetxoO97NgwhoJTK/NJiiFiWBdt9w8M9sNGG3e1otiFTRssN7d54jz3W1nCcJ2p9mjjnUEthbowBEcFay7qTDl56Bo0EMxqQJUw0PdNdlXPOnGAcvyvPM0pdmHdd//rtfvB76brheT6g9VV/4mT/MfwCK2GZxzKbErwAAAAASUVORK5CYII=&apos;); background-size: cover; display: block;&quot;
-  &gt;&lt;/span&gt;
-  &lt;img
-        class=&quot;gatsby-resp-image-image&quot;
-        alt=&quot;Nav Component Function&quot;
-        title=&quot;Nav Component Function&quot;
-        src=&quot;/codingwbeto/static/d91e80309e61a549bdea675459cb6db2/f058b/navComponentFunction.png&quot;
-        srcset=&quot;/codingwbeto/static/d91e80309e61a549bdea675459cb6db2/c26ae/navComponentFunction.png 158w,
-/codingwbeto/static/d91e80309e61a549bdea675459cb6db2/6bdcf/navComponentFunction.png 315w,
-/codingwbeto/static/d91e80309e61a549bdea675459cb6db2/f058b/navComponentFunction.png 630w,
-/codingwbeto/static/d91e80309e61a549bdea675459cb6db2/40601/navComponentFunction.png 945w,
-/codingwbeto/static/d91e80309e61a549bdea675459cb6db2/78612/navComponentFunction.png 1260w,
-/codingwbeto/static/d91e80309e61a549bdea675459cb6db2/de0bd/navComponentFunction.png 2238w&quot;
-        sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
-        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
-        loading=&quot;lazy&quot;
-        decoding=&quot;async&quot;
-      /&gt;
-  &lt;/a&gt;
-    &lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;Or by using an arrow function&lt;/p&gt;
+&lt;p&gt;Create file src/components/Navbar.js&lt;/p&gt;
 &lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
       style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
@@ -177,8 +141,10 @@
   &lt;/a&gt;
     &lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;I sprinkled some bootstrap to quickly style this Nav component, create a file called gatsby-browser.js in the root folder of your project. Here is were you import your css. It is best practice to always use normalize.css because diffrent browsers interpret styling in there own ways and this makes sure your styling is consitant in every browser.&lt;/p&gt;
+&lt;h3 id=&quot;install-bootstrap-and-normalize&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#install-bootstrap-and-normalize&quot; aria-label=&quot;install bootstrap and normalize permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Install bootstrap and normalize&lt;/h3&gt;
 &lt;p&gt;To get bootstrap just install it using &lt;code class=&quot;language-text&quot;&gt;npm install bootstrap&lt;/code&gt;&lt;/p&gt;
 &lt;p&gt;To get normalize.css just install it using &lt;code class=&quot;language-text&quot;&gt;npm install normalize.css&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;Import them inside &lt;code class=&quot;language-text&quot;&gt;gatsby-browser.js&lt;/code&gt;&lt;/p&gt;
 &lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
       style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
@@ -212,6 +178,7 @@
       /&gt;
   &lt;/a&gt;
     &lt;/span&gt;&lt;/p&gt;
+&lt;h3 id=&quot;importing-our-navbar&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#importing-our-navbar&quot; aria-label=&quot;importing our navbar permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Importing our navbar&lt;/h3&gt;
 &lt;p&gt;Lets import this component into our homepage &lt;code class=&quot;language-text&quot;&gt;src/pages/index.js&lt;/code&gt;&lt;/p&gt;
 &lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
@@ -279,53 +246,17 @@
         decoding=&quot;async&quot;
       /&gt;
   &lt;/a&gt;
-    &lt;/span&gt;&lt;/p&gt;
-&lt;h3&gt;Edit one of the blog posts &lt;a name=&quot;edit-one-of-the-blog-posts&quot;&gt;&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;To edit one of the blog posts we must go inside the content folder inside there you will see markdown files.&lt;/p&gt;
-&lt;h3&gt;Understand how Gatsby creates our blog posts &lt;a name=&quot;understand-how-gatsby-creates-our-blog-posts&quot;&gt;&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;I’ll walk you through understanding how gatsby does things&lt;/p&gt;
-&lt;p&gt;There are a few files with a prefix of gatsby&lt;/p&gt;
+    &lt;/span&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Web Development Tips]]></title><description><![CDATA[As a web developer there are a few things that you should consider Text Editor Your text editor of choice is important, this is where you…]]></description><link>https://beto1030.github.io/codingwbeto/pages/web-development-tips/</link><guid isPermaLink="false">https://beto1030.github.io/codingwbeto/pages/web-development-tips/</guid><pubDate>Sat, 19 Sep 2015 22:12:03 GMT</pubDate><content:encoded>&lt;p&gt;As a web developer there are a few things that you should consider&lt;/p&gt;
+&lt;h3 id=&quot;text-editor&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#text-editor&quot; aria-label=&quot;text editor permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Text Editor&lt;/h3&gt;
+&lt;p&gt;Your text editor of choice is important, this is where you will spend all your time.&lt;/p&gt;
+&lt;p&gt;Here are a few text editors&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;gatsby-browser.js
-&lt;ul&gt;
-&lt;li&gt;This is where you put all your styling css files&lt;/li&gt;
+&lt;li&gt;Vim&lt;/li&gt;
+&lt;li&gt;Atom&lt;/li&gt;
+&lt;li&gt;Sublime Text&lt;/li&gt;
+&lt;li&gt;Brackets&lt;/li&gt;
 &lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;gatsby-config.js
-&lt;ul&gt;
-&lt;li&gt;This is where you put your site’s metadata and gatsby plugins&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;gatsby-node.js
-&lt;ul&gt;
-&lt;li&gt;This is where the magic happens, where your markdown files with the content are put together&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;gatsby-ssr&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3&gt;Test our understanding how Gatsby creates our blog posts &lt;a name=&quot;test-our-understanding-how-gatsby-creates-our-blog-posts&quot;&gt;&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;To test our understanding how Gatsby creates our blog posts lets take a look inside gatsby-node.js. This is where the magic happens!&lt;/p&gt;
-&lt;p&gt;We have 3 functions here&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;code class=&quot;language-text&quot;&gt;createPages&lt;/code&gt; This function is avalible to you from the gatsby api. Using this function gives you access to the function createPage.&lt;/p&gt;
-&lt;p&gt;This function takes 3 parameters, graphql, actions, and reporter.&lt;/p&gt;
-&lt;p&gt;Next we set the method of createPage to actions&lt;/p&gt;
-&lt;p&gt;Next we define the path to your blog post template&lt;/p&gt;
-&lt;p&gt;After that we create a varible named results and do an await graphql query grabing the nodes and edges&lt;/p&gt;
-&lt;p&gt;We check for any error messages&lt;/p&gt;
-&lt;p&gt;Next we declare a varible named posts and set it to equal the result’s nodes part&lt;/p&gt;
-&lt;p&gt;We next create an if statment to check if there are any “nodes” in other words we are checking if there are any blog posts&lt;/p&gt;
-&lt;p&gt;If yes, we want to itterate through all of the blog posts and use the build in function gatsby gives you called createPage and pass that function a object defining the path, component, and the context which contains the post id, previous ,and next post id’s&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;code class=&quot;language-text&quot;&gt;onCreateNode&lt;/code&gt; This function&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ol&gt;
-&lt;h3&gt;Connect a headless cms &lt;a name=&quot;connect-a-headless-cms&quot;&gt;&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;Lets now connect a headless cms to our blog. In this tutorial I will be using a headless cms called Sanity.&lt;/p&gt;
-&lt;h3&gt;Use Github to host your blog for free &lt;a name=&quot;use-github-to-host-your-blog-for-free&quot;&gt;&lt;/a&gt;&lt;/h3&gt;
-&lt;h6&gt;Github Client&lt;/h6&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;brew install gh&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-&lt;h6&gt;Git Client&lt;/h6&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;brew install git&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</content:encoded></item></channel></rss>
+&lt;h3 id=&quot;git-version-control&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#git-version-control&quot; aria-label=&quot;git version control permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Git Version Control&lt;/h3&gt;
+&lt;p&gt;Git version control is a very useful thing to use. This enables you to track your progress. Say you have a project your working on and this project has many parts to it. You create the first part. You say your satified with it. Just add your changes then commit your changes. Your project now has a history. Say you are working on the next feature Its best practice to create a new branch to dont touch the master branch. Say your on your new-feature branch  and somthing breaks, no need to panic you have a functioning version of your project that you can work off of&lt;/p&gt;
+&lt;h3 id=&quot;github-client&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#github-client&quot; aria-label=&quot;github client permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Github Client&lt;/h3&gt;
+&lt;p&gt;I believe everyone should learn github client.&lt;/p&gt;</content:encoded></item></channel></rss>
