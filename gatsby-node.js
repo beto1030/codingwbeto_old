@@ -28,6 +28,26 @@ exports.createPages = async ({ graphql, actions, reporter }) => {
       }
     `
   )
+  const myPost = await graphql(
+      `
+     {
+      markdownRemark {
+        id
+        excerpt(pruneLength: 160)
+        html
+        headings {
+            value
+            depth
+        }
+    
+        frontmatter {
+            title
+            date(formatString: "MMMM DD, YYYY")
+            description
+        }
+      }
+     }
+      `)
 
   if (results.errors) {
     reporter.panicOnBuild( `There was an error loading your blog posts`,)

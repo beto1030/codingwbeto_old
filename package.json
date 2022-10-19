@@ -8,13 +8,17 @@
     "url": "https://github.com/gatsbyjs/gatsby/issues"
   },
   "dependencies": {
+    "@emotion/styled": "^11.10.4",
     "bootstrap": "^5.2.1",
     "fs": "^0.0.1-security",
     "gatsby": "^4.22.0",
+    "gatsby-plugin-emotion": "^7.24.0",
     "gatsby-plugin-feed": "^4.22.0",
     "gatsby-plugin-image": "^2.22.0",
     "gatsby-plugin-manifest": "^4.22.0",
     "gatsby-plugin-sharp": "^4.22.0",
+    "gatsby-plugin-smoothscroll": "^1.2.0",
+    "gatsby-remark-autolink-headers": "^5.24.0",
     "gatsby-remark-copy-linked-files": "^5.22.0",
     "gatsby-remark-images": "^6.22.0",
     "gatsby-remark-prismjs": "^6.22.0",
@@ -28,6 +32,7 @@
     "prismjs": "^1.29.0",
     "react": "^18.1.0",
     "react-dom": "^18.1.0",
+    "twin.macro": "^2.8.2",
     "typeface-merriweather": "0.0.72",
     "typeface-montserrat": "0.0.75"
   },

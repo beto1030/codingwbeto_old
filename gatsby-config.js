@@ -40,6 +40,10 @@ module.exports = {
       },
     },
 
+    `gatsby-plugin-emotion`,
+
+    `gatsby-plugin-smoothscroll`,
+
     {
       resolve: `gatsby-transformer-remark`,
       options: {
@@ -59,6 +63,7 @@ module.exports = {
                      `gatsby-remark-prismjs`,
                      `gatsby-remark-copy-linked-files`,
                      `gatsby-remark-smartypants`,
+                     `gatsby-remark-autolink-headers`,
         ],
       },
     },
@@ -150,6 +155,5 @@ module.exports = {
       defaultQuality: 50,
     },
   },
-
   ],
 }

@@ -9,6 +9,7 @@ import "./src/card.css"
 import "./src/global.css"
 import "./node_modules/normalize.css/normalize.css"
 import "./node_modules/bootstrap/dist/css/bootstrap.css"
+import "./src/sticky-nav.css"
 
 
 // Highlighting for code blocks
